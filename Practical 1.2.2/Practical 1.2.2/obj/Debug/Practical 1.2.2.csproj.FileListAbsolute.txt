@@ -1,0 +1,10 @@
+C:\Users\petro\source\repos\Practical 1.2.2\Practical 1.2.2\bin\Debug\Practical 1.2.2.exe.config
+C:\Users\petro\source\repos\Practical 1.2.2\Practical 1.2.2\bin\Debug\Practical 1.2.2.exe
+C:\Users\petro\source\repos\Practical 1.2.2\Practical 1.2.2\bin\Debug\Practical 1.2.2.pdb
+C:\Users\petro\source\repos\Practical 1.2.2\Practical 1.2.2\obj\Debug\Practical 1.2.2.csprojAssemblyReference.cache
+C:\Users\petro\source\repos\Practical 1.2.2\Practical 1.2.2\obj\Debug\Practical_1._2._2.Form1.resources
+C:\Users\petro\source\repos\Practical 1.2.2\Practical 1.2.2\obj\Debug\Practical_1._2._2.Properties.Resources.resources
+C:\Users\petro\source\repos\Practical 1.2.2\Practical 1.2.2\obj\Debug\Practical 1.2.2.csproj.GenerateResource.cache
+C:\Users\petro\source\repos\Practical 1.2.2\Practical 1.2.2\obj\Debug\Practical 1.2.2.csproj.CoreCompileInputs.cache
+C:\Users\petro\source\repos\Practical 1.2.2\Practical 1.2.2\obj\Debug\Practical 1.2.2.exe
+C:\Users\petro\source\repos\Practical 1.2.2\Practical 1.2.2\obj\Debug\Practical 1.2.2.pdb

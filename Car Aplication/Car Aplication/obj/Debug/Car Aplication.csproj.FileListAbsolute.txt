@@ -1,0 +1,10 @@
+C:\Users\petro\source\repos\Car Aplication\Car Aplication\bin\Debug\Car Aplication.exe.config
+C:\Users\petro\source\repos\Car Aplication\Car Aplication\bin\Debug\Car Aplication.exe
+C:\Users\petro\source\repos\Car Aplication\Car Aplication\bin\Debug\Car Aplication.pdb
+C:\Users\petro\source\repos\Car Aplication\Car Aplication\obj\Debug\Car Aplication.csprojAssemblyReference.cache
+C:\Users\petro\source\repos\Car Aplication\Car Aplication\obj\Debug\Car_Aplication.Form1.resources
+C:\Users\petro\source\repos\Car Aplication\Car Aplication\obj\Debug\Car_Aplication.Properties.Resources.resources
+C:\Users\petro\source\repos\Car Aplication\Car Aplication\obj\Debug\Car Aplication.csproj.GenerateResource.cache
+C:\Users\petro\source\repos\Car Aplication\Car Aplication\obj\Debug\Car Aplication.csproj.CoreCompileInputs.cache
+C:\Users\petro\source\repos\Car Aplication\Car Aplication\obj\Debug\Car Aplication.exe
+C:\Users\petro\source\repos\Car Aplication\Car Aplication\obj\Debug\Car Aplication.pdb
