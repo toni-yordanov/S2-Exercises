@@ -1,0 +1,10 @@
+C:\Users\petro\source\repos\anton-advanced-practical\S-Week14_Car_StartUp\Week14_Practice\bin\Debug\Week14_Practice.exe.config
+C:\Users\petro\source\repos\anton-advanced-practical\S-Week14_Car_StartUp\Week14_Practice\bin\Debug\Week14_Practice.exe
+C:\Users\petro\source\repos\anton-advanced-practical\S-Week14_Car_StartUp\Week14_Practice\bin\Debug\Week14_Practice.pdb
+C:\Users\petro\source\repos\anton-advanced-practical\S-Week14_Car_StartUp\Week14_Practice\obj\Debug\Week14_Practice.csprojAssemblyReference.cache
+C:\Users\petro\source\repos\anton-advanced-practical\S-Week14_Car_StartUp\Week14_Practice\obj\Debug\Week14_Practice.Form1.resources
+C:\Users\petro\source\repos\anton-advanced-practical\S-Week14_Car_StartUp\Week14_Practice\obj\Debug\Week14_Practice.Properties.Resources.resources
+C:\Users\petro\source\repos\anton-advanced-practical\S-Week14_Car_StartUp\Week14_Practice\obj\Debug\Week14_Practice.csproj.GenerateResource.cache
+C:\Users\petro\source\repos\anton-advanced-practical\S-Week14_Car_StartUp\Week14_Practice\obj\Debug\Week14_Practice.csproj.CoreCompileInputs.cache
+C:\Users\petro\source\repos\anton-advanced-practical\S-Week14_Car_StartUp\Week14_Practice\obj\Debug\Week14_Practice.exe
+C:\Users\petro\source\repos\anton-advanced-practical\S-Week14_Car_StartUp\Week14_Practice\obj\Debug\Week14_Practice.pdb
