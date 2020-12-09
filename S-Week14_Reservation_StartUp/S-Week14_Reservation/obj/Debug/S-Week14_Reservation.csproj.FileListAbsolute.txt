@@ -1,0 +1,5 @@
+C:\Users\petro\source\repos\anton-advanced-practical\S-Week14_Reservation_StartUp\S-Week14_Reservation\obj\Debug\S-Week14_Reservation.csprojAssemblyReference.cache
+C:\Users\petro\source\repos\anton-advanced-practical\S-Week14_Reservation_StartUp\S-Week14_Reservation\obj\Debug\S_Week14_Reservation.Form1.resources
+C:\Users\petro\source\repos\anton-advanced-practical\S-Week14_Reservation_StartUp\S-Week14_Reservation\obj\Debug\S_Week14_Reservation.Properties.Resources.resources
+C:\Users\petro\source\repos\anton-advanced-practical\S-Week14_Reservation_StartUp\S-Week14_Reservation\obj\Debug\S-Week14_Reservation.csproj.GenerateResource.cache
+C:\Users\petro\source\repos\anton-advanced-practical\S-Week14_Reservation_StartUp\S-Week14_Reservation\obj\Debug\S-Week14_Reservation.csproj.CoreCompileInputs.cache

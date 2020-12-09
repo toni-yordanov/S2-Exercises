@@ -1,0 +1,10 @@
+C:\Users\petro\source\repos\anton-advanced-practical\Assignment Snackbar\Assignment Snackbar\obj\Debug\Assignment Snackbar.csprojAssemblyReference.cache
+C:\Users\petro\source\repos\anton-advanced-practical\Assignment Snackbar\Assignment Snackbar\obj\Debug\Assignment_Snackbar.Form1.resources
+C:\Users\petro\source\repos\anton-advanced-practical\Assignment Snackbar\Assignment Snackbar\obj\Debug\Assignment_Snackbar.Properties.Resources.resources
+C:\Users\petro\source\repos\anton-advanced-practical\Assignment Snackbar\Assignment Snackbar\obj\Debug\Assignment Snackbar.csproj.GenerateResource.cache
+C:\Users\petro\source\repos\anton-advanced-practical\Assignment Snackbar\Assignment Snackbar\obj\Debug\Assignment Snackbar.csproj.CoreCompileInputs.cache
+C:\Users\petro\source\repos\anton-advanced-practical\Assignment Snackbar\Assignment Snackbar\bin\Debug\Assignment Snackbar.exe.config
+C:\Users\petro\source\repos\anton-advanced-practical\Assignment Snackbar\Assignment Snackbar\bin\Debug\Assignment Snackbar.exe
+C:\Users\petro\source\repos\anton-advanced-practical\Assignment Snackbar\Assignment Snackbar\bin\Debug\Assignment Snackbar.pdb
+C:\Users\petro\source\repos\anton-advanced-practical\Assignment Snackbar\Assignment Snackbar\obj\Debug\Assignment Snackbar.exe
+C:\Users\petro\source\repos\anton-advanced-practical\Assignment Snackbar\Assignment Snackbar\obj\Debug\Assignment Snackbar.pdb

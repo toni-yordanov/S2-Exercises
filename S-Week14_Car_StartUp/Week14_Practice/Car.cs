@@ -12,6 +12,13 @@ namespace Week14_Practice
         private int topSpeed;
         private int speed;
 
+        public Car(string model, int topSpeed, int speed)
+        {
+            this.model = model;
+            this.topSpeed = topSpeed;
+            this.speed = speed;
+        }
+
         public string GetModel()
         {
             return this.model;
