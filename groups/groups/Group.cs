@@ -9,7 +9,7 @@ namespace groups
     public class Group
     {
         private string name;
-        List<Member> members = new List<Member>();
+        public List<Member> members = new List<Member>();
 
         public Group(string name)
         {

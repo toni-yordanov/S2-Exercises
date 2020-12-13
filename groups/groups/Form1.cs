@@ -13,9 +13,12 @@ namespace groups
     public partial class Form1 : Form
     {
         Group group = new Group("Group");
+        Member member = new Member("name", 9);
+        
         public Form1()
         {
             InitializeComponent();
+            group.members.Add(member);
         }
 
         private void btnAddMember_Click(object sender, EventArgs e)
