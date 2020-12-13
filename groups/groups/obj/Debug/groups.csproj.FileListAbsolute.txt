@@ -1,0 +1,10 @@
+C:\Users\petro\source\repos\anton-advanced-practical\groups\groups\bin\Debug\groups.exe.config
+C:\Users\petro\source\repos\anton-advanced-practical\groups\groups\bin\Debug\groups.exe
+C:\Users\petro\source\repos\anton-advanced-practical\groups\groups\bin\Debug\groups.pdb
+C:\Users\petro\source\repos\anton-advanced-practical\groups\groups\obj\Debug\groups.csprojAssemblyReference.cache
+C:\Users\petro\source\repos\anton-advanced-practical\groups\groups\obj\Debug\groups.Form1.resources
+C:\Users\petro\source\repos\anton-advanced-practical\groups\groups\obj\Debug\groups.Properties.Resources.resources
+C:\Users\petro\source\repos\anton-advanced-practical\groups\groups\obj\Debug\groups.csproj.GenerateResource.cache
+C:\Users\petro\source\repos\anton-advanced-practical\groups\groups\obj\Debug\groups.csproj.CoreCompileInputs.cache
+C:\Users\petro\source\repos\anton-advanced-practical\groups\groups\obj\Debug\groups.exe
+C:\Users\petro\source\repos\anton-advanced-practical\groups\groups\obj\Debug\groups.pdb

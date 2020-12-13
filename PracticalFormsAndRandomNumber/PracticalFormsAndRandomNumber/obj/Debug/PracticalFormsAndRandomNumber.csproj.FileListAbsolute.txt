@@ -1,0 +1,10 @@
+C:\Users\petro\source\repos\anton-advanced-practical\PracticalFormsAndRandomNumber\PracticalFormsAndRandomNumber\bin\Debug\PracticalFormsAndRandomNumber.exe.config
+C:\Users\petro\source\repos\anton-advanced-practical\PracticalFormsAndRandomNumber\PracticalFormsAndRandomNumber\bin\Debug\PracticalFormsAndRandomNumber.exe
+C:\Users\petro\source\repos\anton-advanced-practical\PracticalFormsAndRandomNumber\PracticalFormsAndRandomNumber\bin\Debug\PracticalFormsAndRandomNumber.pdb
+C:\Users\petro\source\repos\anton-advanced-practical\PracticalFormsAndRandomNumber\PracticalFormsAndRandomNumber\obj\Debug\PracticalFormsAndRandomNumber.csprojAssemblyReference.cache
+C:\Users\petro\source\repos\anton-advanced-practical\PracticalFormsAndRandomNumber\PracticalFormsAndRandomNumber\obj\Debug\PracticalFormsAndRandomNumber.Form1.resources
+C:\Users\petro\source\repos\anton-advanced-practical\PracticalFormsAndRandomNumber\PracticalFormsAndRandomNumber\obj\Debug\PracticalFormsAndRandomNumber.Properties.Resources.resources
+C:\Users\petro\source\repos\anton-advanced-practical\PracticalFormsAndRandomNumber\PracticalFormsAndRandomNumber\obj\Debug\PracticalFormsAndRandomNumber.csproj.GenerateResource.cache
+C:\Users\petro\source\repos\anton-advanced-practical\PracticalFormsAndRandomNumber\PracticalFormsAndRandomNumber\obj\Debug\PracticalFormsAndRandomNumber.csproj.CoreCompileInputs.cache
+C:\Users\petro\source\repos\anton-advanced-practical\PracticalFormsAndRandomNumber\PracticalFormsAndRandomNumber\obj\Debug\PracticalFormsAndRandomNumber.exe
+C:\Users\petro\source\repos\anton-advanced-practical\PracticalFormsAndRandomNumber\PracticalFormsAndRandomNumber\obj\Debug\PracticalFormsAndRandomNumber.pdb
