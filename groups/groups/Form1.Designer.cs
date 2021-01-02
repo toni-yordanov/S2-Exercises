@@ -32,6 +32,9 @@
             this.btnGetInfo = new System.Windows.Forms.Button();
             this.tbName = new System.Windows.Forms.TextBox();
             this.lblInfo = new System.Windows.Forms.Label();
+            this.fileSystemWatcher1 = new System.IO.FileSystemWatcher();
+            this.label1 = new System.Windows.Forms.Label();
+            ((System.ComponentModel.ISupportInitialize)(this.fileSystemWatcher1)).BeginInit();
             this.SuspendLayout();
             // 
             // btnAddMember
@@ -69,17 +72,33 @@
             this.lblInfo.Size = new System.Drawing.Size(0, 17);
             this.lblInfo.TabIndex = 4;
             // 
+            // fileSystemWatcher1
+            // 
+            this.fileSystemWatcher1.EnableRaisingEvents = true;
+            this.fileSystemWatcher1.SynchronizingObject = this;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(53, 40);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(45, 17);
+            this.label1.TabIndex = 5;
+            this.label1.Text = "Name";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.lblInfo);
             this.Controls.Add(this.tbName);
             this.Controls.Add(this.btnGetInfo);
             this.Controls.Add(this.btnAddMember);
             this.Name = "Form1";
             this.Text = "Form1";
+            ((System.ComponentModel.ISupportInitialize)(this.fileSystemWatcher1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -91,6 +110,8 @@
         private System.Windows.Forms.Button btnGetInfo;
         private System.Windows.Forms.TextBox tbName;
         private System.Windows.Forms.Label lblInfo;
+        private System.IO.FileSystemWatcher fileSystemWatcher1;
+        private System.Windows.Forms.Label label1;
     }
 }
 
