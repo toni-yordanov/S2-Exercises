@@ -49,7 +49,6 @@ namespace Week14_MagazineApp
             {
                 if (newsItems.ElementAt(i).ID.Equals(id))
                 {
-                    newsItems.ElementAt(i);
                     return true;
                 }
             }
