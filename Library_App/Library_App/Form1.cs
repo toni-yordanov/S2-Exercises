@@ -43,7 +43,7 @@ namespace Library_App
 
         private void btnShowAll_Click(object sender, EventArgs e)
         {
-            UpdateListBox(library.GetAllBooks());
+            UpdateListBox("All books :",library.GetAllBooks());
         }
 
         private void btnShowBooksThatAre_Click(object sender, EventArgs e)
@@ -51,50 +51,86 @@ namespace Library_App
             
             if (rbtnAvailable.Checked)
             {
-                UpdateListBox(library.GetAllAvailableBooks());
+                UpdateListBox("Books that are avaivable :",library.GetAllAvailableBooks());
             }
             else if(rbtnBorrowed.Checked)
             {
-                UpdateListBox(library.GetAllBorrowedBooks());
+                UpdateListBox("Books that are borrowed :",library.GetAllBorrowedBooks());
             }
 
         }
 
         private void btnRemove_Click(object sender, EventArgs e)
         {
-            library.RemoveBook(Convert.ToInt32(tbId.Text));
-        }
-
-        private void btnReturn_Click(object sender, EventArgs e)
-        {
-            foreach (Book b in library.GetAllBorrowedBooks())
+            if (!library.RemoveBook(Convert.ToInt32(tbId.Text)))
             {
-                if (b.ID == Convert.ToInt32(tbId.Text) && b.Borrowed == true)
-                {
-                    b.Borrowed = false;
-                }
+                MessageBox.Show("Sorry, no book with the specified id");
             }
-        }
-
-        private void btnBorrow_Click(object sender, EventArgs e)
-        {
-            foreach (Book b in library.GetAllAvailableBooks())
+            else
             {
-                if (b.ID == Convert.ToInt32(tbId.Text) && !b.Borrowed == true)
-                {
-                    b.Borrowed = true;
-                }
+                UpdateListBox("All Books :",library.GetAllBooks());
+                MessageBox.Show("sucessfully removed!");
             }
             
         }
 
-        public void UpdateListBox(List<Book> books)
+        private void btnReturn_Click(object sender, EventArgs e)
+        {
+            Book book = library.GetBookById(Convert.ToInt32(tbId.Text));
+
+            if(book == null)
+            {
+                MessageBox.Show("Sorry, no book with the specified id");
+            }
+            else
+            {
+                book.Borrowed = false;
+                book.BorrowerInfo = "";
+            }
+
+        }
+
+        private void btnBorrow_Click(object sender, EventArgs e)
+        {
+            Book book = library.GetBookById(Convert.ToInt32(tbId.Text));
+
+            if (book == null)
+            {
+                MessageBox.Show("Sorry, no book with the specified id");
+            }
+            else
+            {
+                if(book.Borrowed == false)
+                {
+                    string bookInfo = book.GetInfo();
+                    BorrowForm borrowform = new BorrowForm(this, bookInfo);
+                    borrowform.Show();
+                }
+                else
+                {
+                    MessageBox.Show("Book already borrowed");
+                }
+
+            }
+
+        }
+
+        public void UpdateListBox(string message,List<Book> books)
         {
             lbLibrary.Items.Clear();
+            lbLibrary.Items.Add(message);
             foreach (Book b in books)
             {
                 lbLibrary.Items.Add(b.GetInfo());
             }
+        }
+        public void SetBorrowerInfo(string borrower)
+        {
+            Book book = library.GetBookById(Convert.ToInt32(tbId.Text));
+            book.Borrowed = true;
+            book.BorrowerInfo = borrower;
+
+            UpdateListBox("All Books :",library.GetAllBooks());
         }
     }
 }

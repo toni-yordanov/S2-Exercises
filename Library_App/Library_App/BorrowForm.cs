@@ -12,14 +12,32 @@ namespace Library_App
 {
     public partial class BorrowForm : Form
     {
+        Form1 libraryForm;
+
         public BorrowForm()
         {
             InitializeComponent();
         }
 
+        public BorrowForm(Form1 ParentForm, string bookInfo)
+        {
+            InitializeComponent();
+            libraryForm = ParentForm;
+            lblBookInfo.Text = bookInfo;
+
+        }
         private void btnBorrowToBorrower_Click(object sender, EventArgs e)
         {
-            //todo            
+            if (!(String.IsNullOrEmpty(tbBorrowerInfo.Text)))
+            {
+                libraryForm.SetBorrowerInfo(tbBorrowerInfo.Text);
+                this.Close();
+            }
+            else
+            {
+                MessageBox.Show("Please enter the borrowers name");
+            }
+
         }
     }
 }
